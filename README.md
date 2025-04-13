@@ -1,9 +1,5 @@
 ## Design
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+![System Design](https://github.com/rajeshsatpathy1/auth-service/blob/main/auth_service.drawio.png)
 
 ## Project setup
 
