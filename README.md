@@ -1,5 +1,5 @@
 ## Design
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/rajeshsatpathy1/auth-service/blob/main/auth_service.drawio.png) "Product Design")
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Description
 
